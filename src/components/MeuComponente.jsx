@@ -1,0 +1,5 @@
+export default function MeuComponente() {
+    return (
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio saepe ducimus, quod voluptatum, quas nobis non consequatur animi et blanditiis aperiam, incidunt nesciunt? Autem necessitatibus repellat aliquam possimus sint, nihil eligendi fugit, repudiandae repellendus eveniet mollitia ut voluptate, expedita suscipit quod iure vel. Cum temporibus doloribus harum iste, exercitationem aliquid ea similique numquam eum quidem officia veniam aut, eius saepe, sed odio! Pariatur nostrum, odio rerum nihil deserunt autem quas, ipsa ratione laudantium iusto recusandae totam? Voluptas adipisci cum, dolorum quibusdam sed, placeat dignissimos reprehenderit asperiores enim, quod at? Omnis accusamus inventore quasi aperiam eum in blanditiis aliquid pariatur consequatur.</p>
+    )
+  }
